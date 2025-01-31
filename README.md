@@ -27,7 +27,7 @@ To fill out `home.csv` and `away.csv`, follow these **not-at-all-extravagant** (
 Run the script using the following command:
 
 ```sh
-python3 cbbPick.py home.csv away.csv
+python3 cbbPick2.py home.csv away.csv
 ```
 
 ### Example Output:
